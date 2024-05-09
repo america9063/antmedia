@@ -6,5 +6,5 @@ cd /usr/local/antmedia/ && sudo ./enable_ssl.sh (free ssl)  /  Custom ssl (cd /u
 -----RESULT--
  https://ams-XXX.antmedia.cloud:5443/ ACCESO A WEB
 
-# antmedia ubuntu 22 VERSION comunnity
+# antmedia ubuntu 22 VERSION Community 
 sudo ./install_ant-media-server.sh
