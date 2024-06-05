@@ -7,4 +7,15 @@ cd /usr/local/antmedia/ && sudo ./enable_ssl.sh (free ssl)  /  Custom ssl (cd /u
  https://ams-XXX.antmedia.cloud:5443/ ACCESO A WEB
 
 # antmedia ubuntu 22 VERSION Community 
+sudo apt-get update
+wget https://raw.githubusercontent.com/ant-media/Scripts/master/install_ant-media-server.sh -O install_ant-media-server.sh 
 sudo ./install_ant-media-server.sh
+-----RESULT--
+ https://ams-XXX.antmedia.cloud:5443/ ACCESO A WEB
+http://SERVER IP ADDRESS:5080
+Create First Account
+First Name*
+Last Name*
+Username (E-mail)*
+Password*
+Confirm Password*
